@@ -1,0 +1,29 @@
+git init
+    2  git clone https://github.com/MounikhaP/Sample.git
+    3  git status
+    4  cd sample
+    5  cd ..
+    6  cd sample
+    7  git status
+    8  git add
+    9  git add quote.txt
+   10  git status
+   11  git commit -m "commit"
+   12  git config --global user.email "mounikha5@gmail.com"
+   13   unstage)
+   14          new file:   quote.txt
+   15  MY PC@LAPTOP-BUCVQKAT MINGW64 ~/Desktop/sample (main)
+   16  $ git commit -m "commit"
+   17  Author identity unknown
+   18  *** Please tell me who you are.
+   19  Run
+   20    git config --global user.email "you@example.com"
+   21    git config --global user.name "Your Name"
+   22  git config --global user.name "MounikhaP"
+   23  $ git commit -m "commit"
+   24  git commit -
+   25  git commit -m "c"
+   26  git push origin main
+   27  git push origin main
+   28  git push origin main
+   29  history
